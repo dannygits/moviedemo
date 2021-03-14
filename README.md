@@ -6,6 +6,7 @@ The link provided will take you to the application https://moviedemo-2tqqd.ondig
 To install the web application, run this commands and you will be ready to go.
 - clone repository and cd into it.
 - composer install
+- insert your TMDM_TOKEN in the .env file
 - php artisan key:generate
 - npm install
 - npm run dev
