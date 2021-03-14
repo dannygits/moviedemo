@@ -1,0 +1,9 @@
+#tab-1-content,
+#tab-2-content {
+  display: none;
+}
+
+.show {
+  display: block !important;
+}
+
