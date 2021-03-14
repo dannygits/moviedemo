@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <section class="tabs">
+    <!-- <section class="tabs">
         <div class="container mx-auto">
             <div class="grid grid-cols-2">
                 <div id="tab-1" class="tab-item border-b-2 border-gray-600 py-5">
@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="tab-content">
         <div class="container px-12 mx-auto pt-10">
             <div id="tab-1-content" class="tab-content-item popular-movies pb-5 border-b border-gray-500 show">
